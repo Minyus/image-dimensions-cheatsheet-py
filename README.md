@@ -1,4 +1,4 @@
-# image dimension ordering (in default)
+# image dimension ordering
 
 |  | C: RGB | C: BGR |
 | :---: | :---: |:---: |
