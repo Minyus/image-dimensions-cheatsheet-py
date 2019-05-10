@@ -1,4 +1,4 @@
-# image dimensions cheatsheet for Python packages
+# Image dimensions cheatsheet for Python packages
 
 |  | C: RGB | C: BGR |
 | :---: | :---: |:---: |
