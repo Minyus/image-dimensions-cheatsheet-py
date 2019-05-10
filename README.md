@@ -1,4 +1,4 @@
-# image dimension ordering cheatsheet
+# image dimensions cheatsheet for Python packages
 
 |  | C: RGB | C: BGR |
 | :---: | :---: |:---: |
