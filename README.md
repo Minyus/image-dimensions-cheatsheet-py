@@ -2,9 +2,8 @@
 
 |  | C: RGB | C: BGR |
 | :---: | :---: |:---: |
-|(N)HWC | TensorFlow, Keras, Matplotlib | OpenCV |
+|(N)HWC | TensorFlow, Keras, Pillow, Matplotlib | OpenCV |
 |(N)CHW | PyTorch | Caffe |
-|   WHC | Pillow | |
 
 - N: Batch Size
 - H: Height
